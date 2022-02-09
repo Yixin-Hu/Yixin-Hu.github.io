@@ -1,0 +1,160 @@
+/*
+	Author : Ashok
+	Website : http://responsivewebinc.com
+	********************************************
+	For Paid Support - Contact me.
+	********************************************
+*/
+		
+body{
+padding-top:0px;
+font-family: 'Oswald', sans-serif;
+font-size:14px;
+color:#777;
+line-height:23px;
+}
+
+h2,h3,h4,h5,h6{
+font-weight:normal;
+}
+
+.outer{
+background:url('../img/back.gif') repeat;
+}
+
+.content{
+padding:30px 0px;
+}
+
+.content > .container{
+background:#fff;
+border:1px solid #ccc;
+}
+
+header{
+border-top:10px solid #2badd7;
+}
+
+.padd{
+padding:5px 10px;
+}
+
+.logo{
+padding:20px 0px;
+border-bottom:1px dashed #2badd7;
+}
+
+.logo h1{
+font-size:50px;
+line-height:55px;
+text-transform:uppercase;
+padding:10px 0px;
+color:#2badd7;
+}
+
+.logo p{
+font-size:30px;
+padding:10px 0px;
+color:#777;
+text-transform:uppercase;
+line-height:35px;
+}
+
+.main{
+margin:10px 0px;
+}
+
+.obj > .container{
+border-bottom:1px dashed #2badd7;
+}
+
+.objective{
+font-size:18px;
+}
+
+.social img{
+margin:5px 2px;
+}
+
+.profile{
+margin:5px 0px;
+}
+
+.education, .publications, .work, .contact, .aboutme{
+padding:10px 0px;
+border-bottom:1px dashed #2badd7;
+}
+
+
+.univ, .set, .comp, .cont, .abo{
+border-left:5px solid #62d5fa;
+padding-left:10px;
+}
+
+.main h2{
+color:#fff;
+background:#2badd7;
+padding:3px 10px;
+font-size:20px;
+}
+
+.main h3{
+color:#2badd7;
+}
+
+.meta{
+font-size:12px;
+font-family:Tahoma, Verdana, sans-serif;
+}
+
+.label-info{
+padding:5px 10px;
+border-radius:5px;
+-moz-border-radius:5px;
+-webkit-border-radius:5px;
+background:#f6f6f6;
+margin:5px;
+font-size:12px;
+font-family:Tahoma, Verdana, sans-serif;
+line-height:35px;
+border:1px solid #bbb;
+cursor:pointer;
+}
+
+.label-info:hover{
+background:#fafafa;
+}
+
+.details{
+padding:10px;
+font-size:12px;
+font-family:Tahoma, Verdana, sans-serif;
+}
+
+.details label{
+float:left;
+}
+
+.details span{
+float:left;
+position:relative;
+left:10px;
+}
+
+.details hr{
+margin:3px;
+}
+
+/* Footer */
+
+footer{
+border-bottom:10px solid #2badd7;
+}
+
+.fpadd{
+padding:5px 10px;
+}
+
+.attr{
+text-align:right;
+}
